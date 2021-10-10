@@ -3,8 +3,8 @@
   "version": "2.0.2",
   "author": "Vassilis Pallas <vspallas@gmail.com>",
   "description": "Mongoose fuzzy searching plugin",
-  "main": "index",
-  "typings": "index",
+  "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "lint:fix": "eslint --fix .",
     "format": "prettier --write \"./**/*.{json,js}\"",
