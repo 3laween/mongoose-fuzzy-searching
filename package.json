@@ -3,7 +3,7 @@
   "version": "2.0.2",
   "author": "Vassilis Pallas <vspallas@gmail.com>",
   "description": "Mongoose fuzzy searching plugin",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "lint:fix": "eslint --fix .",
     "format": "prettier --write \"./**/*.{json,js}\"",
@@ -57,5 +57,5 @@
     "mongoose": "^5.10.11",
     "prettier": "^2.0.5"
   },
-  "types": "types/index.d.ts"
+  "typings": "index"
 }
